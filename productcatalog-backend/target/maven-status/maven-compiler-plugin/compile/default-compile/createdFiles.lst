@@ -1,0 +1,10 @@
+com\ecom\productcatalog\service\ProductService.class
+com\ecom\productcatalog\model\Category.class
+com\ecom\productcatalog\service\CategoryService.class
+com\ecom\productcatalog\model\Product.class
+com\ecom\productcatalog\config\DataSeeder.class
+com\ecom\productcatalog\repository\ProductRepository.class
+com\ecom\productcatalog\controller\ProductController.class
+com\ecom\productcatalog\repository\CategoryRepository.class
+com\ecom\productcatalog\ProductcatalogApplication.class
+com\ecom\productcatalog\controller\CategoryController.class
